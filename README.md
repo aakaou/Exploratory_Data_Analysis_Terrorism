@@ -2,7 +2,8 @@
 
 This project aims to analyze the "Global Terrorism" dataset as a security/defense analyst to identify hot zones of terrorism and derive valuable insights.
 
-## Code Outline
+# Code Outline
+
 1. Import necessary libraries: pandas, numpy, matplotlib, seaborn.
 2. Load the dataset "globalterrorismdb_0718dist.csv" into a pandas dataframe.
 3. Explore the dataframe and clean the data.
@@ -16,7 +17,7 @@ This project aims to analyze the "Global Terrorism" dataset as a security/defens
     * What is the trend of terrorism over the years?
 5. Visualize the results.
 
-## Insights and Security Issues
+# Insights and Security Issues
 
 As a security/defense analyst, the EDA may provide insights such as:
 
@@ -27,3 +28,6 @@ As a security/defense analyst, the EDA may provide insights such as:
 
 These insights can aid in devising strategic defense measures and prioritizing security efforts to mitigate terrorism threats effectively.
 
+# Author
+
+Full Name: Aboubakr Aakaou
